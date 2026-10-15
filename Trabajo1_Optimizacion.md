@@ -116,19 +116,19 @@ La tabla resume los valores finales $f(x_{\text{final}}) - f^*$ de las 30 corrid
 
 **Figura 1.1.** *Valor final de cada corrida*
 
-> *[Figura: Rosenbrock 2D y 3D — valor final de cada corrida (30 por método; raya = mediana), escala logarítmica de f − f* con piso en 1e-16 y línea de umbral de éxito. Métodos: GD paso fijo, GD backtracking, GA, PSO, DE.]*
+![Valores finales de las 30 corridas para Rosenbrock en 2D y 3D.]({{ "/assets/images/figura-1-1.png" | relative_url }})
 
 **Figura 1.2.** *Valor final de cada corrida*
 
-> *[Figura: Rastrigin 2D y 3D — valor final de cada corrida, misma escala y convenciones que la Figura 1.1.]*
+![Valores finales de las 30 corridas para Rastrigin en 2D y 3D.]({{ "/assets/images/figura-1-2.png" | relative_url }})
 
 **Figura 1.3.** *Convergencia con el mismo presupuesto*
 
-> *[Figura: Rosenbrock 2D y 3D — convergencia (mediana y rango intercuartil de f − f*, 30 corridas por método) frente a evaluaciones equivalentes de f.]*
+![Convergencia de los métodos para Rosenbrock en 2D y 3D frente a las evaluaciones equivalentes de la función.]({{ "/assets/images/figura-1-3.png" | relative_url }})
 
 **Figura 1.4.** *Convergencia con el mismo presupuesto*
 
-> *[Figura: Rastrigin 2D y 3D — convergencia (mediana y rango intercuartil de f − f*) frente a evaluaciones equivalentes de f (n_f + 2n·n_∇f).]*
+![Convergencia de los métodos para Rastrigin en 2D y 3D frente a las evaluaciones equivalentes de la función.]({{ "/assets/images/figura-1-4.png" | relative_url }})
 
 ### Visualización
 
@@ -483,7 +483,7 @@ En la tabla 2.4 se compara el desempeño final de ambos algoritmos evaluando cos
 
 **Figura 2.1.** *Curvas de convergencia del costo mínimo encontrado por iteración o generación para ACO y GA.*
 
-> *[Figura: "Convergencia de los algoritmos" — mejor costo encontrado (EUR) frente a iteración/generación. ACO parte cerca de 4 200 EUR y se estabiliza en torno a 2 500 EUR hacia la iteración 130; GA parte cerca de 7 500 EUR y se estabiliza en torno a 3 300 EUR.]*
+![Curvas de convergencia del costo mínimo encontrado por ACO y GA.]({{ "/assets/images/figura-2-1.png" | relative_url }})
 
 *Fuente: Elaboración propia.*
 
@@ -491,7 +491,7 @@ Las curvas del mejor costo encontrado por iteración/generación para cada algor
 
 **Figura 2.2.** *Mejor ruta obtenida mediante la colonia de hormigas (ACO) a través de las capitales peninsulares de España.*
 
-> *[Figura: "Mejor ruta - ACO (costo = 2,491.5 EUR)" — recorrido cerrado en el plano longitud–latitud.]*
+![Mejor ruta encontrada por ACO a través de las capitales peninsulares de España.]({{ "/assets/images/figura-2-2.png" | relative_url }})
 
 *Fuente: Elaboración propia.*
 
@@ -499,7 +499,7 @@ En la anterior figura se muestra el recorrido cerrado sobre las 47 capitales gra
 
 **Figura 2.3.** *Mejor ruta obtenida mediante el algoritmo genético (GA) a través de las capitales peninsulares de España.*
 
-> *[Figura: "Mejor ruta - GA (costo = 3,274.3 EUR)" — recorrido cerrado en el plano longitud–latitud.]*
+![Mejor ruta encontrada por el algoritmo genético a través de las capitales peninsulares de España.]({{ "/assets/images/figura-2-3.png" | relative_url }})
 
 *Fuente: Elaboración propia.*
 
