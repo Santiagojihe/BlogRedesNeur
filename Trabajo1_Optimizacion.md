@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /trabajo1/
+---
+
 # Trabajo 1 – Optimización numérica, metaheurística y combinatoria
 
 **Presentado por:**
