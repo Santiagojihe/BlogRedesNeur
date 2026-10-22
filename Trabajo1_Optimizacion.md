@@ -6,10 +6,10 @@ permalink: /trabajo1/
 # Trabajo 1 – Optimización numérica, metaheurística y combinatoria
 
 **Presentado por:**
-[Santiago Jimenez Henao](https://drive.google.com/file/d/1cAEot-qNaMo2oGCS1wZtmxoKkx4vw8Tm/view?usp=sharing)
-[Catalina Arango Sierra](https://drive.google.com/file/d/1jtH615NblHxFm6ohqrvfq7ANSbqm5Bvk/view?usp=drivesdk)
+Santiago Jimenez Henao
+Catalina Arango Sierra
 Sara Castano Montoya
-[Juan Diego Cifuentes](https://drive.google.com/file/d/1ciQNPTjeeMYVVu4BIQVzKwZAZrGtkulV/view?usp=sharing)
+Juan Diego Cifuentes
 
 **Profesor:** Juan David Ospina Arango
 
@@ -26,6 +26,7 @@ Martes 13 de Octubre de 2026
 ## Tabla de contenido
 
 - Enlace Repositorio Git
+- Videos
 - Parte 1: Optimización numérica
   - Metodología y Regla de Comparación Justa
   - Resultados de los Experimentos
@@ -49,6 +50,14 @@ Martes 13 de Octubre de 2026
 ## Enlace Repositorio Git
 
 <https://github.com/jucifuenteso/Redes-neuronales-yalgoritmos-bioinspirados.git>
+
+---
+
+## Videos
+
+- [Santiago Jimenez Henao](https://drive.google.com/file/d/1cAEot-qNaMo2oGCS1wZtmxoKkx4vw8Tm/view?usp=sharing)
+- [Catalina Arango Sierra](https://drive.google.com/file/d/1jtH615NblHxFm6ohqrvfq7ANSbqm5Bvk/view?usp=drivesdk)
+- [Juan Diego Cifuentes](https://drive.google.com/file/d/1ciQNPTjeeMYVVu4BIQVzKwZAZrGtkulV/view?usp=sharing)
 
 ---
 
