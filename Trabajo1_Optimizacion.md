@@ -6,10 +6,10 @@ permalink: /trabajo1/
 # Trabajo 1 – Optimización numérica, metaheurística y combinatoria
 
 **Presentado por:**
-Santiago Jimenez Henao
-Catalina Arango Sierra
+[Santiago Jimenez Henao](https://drive.google.com/file/d/1cAEot-qNaMo2oGCS1wZtmxoKkx4vw8Tm/view?usp=sharing)
+[Catalina Arango Sierra](https://drive.google.com/file/d/1jtH615NblHxFm6ohqrvfq7ANSbqm5Bvk/view?usp=drivesdk)
 Sara Castano Montoya
-Juan Diego Cifuentes
+[Juan Diego Cifuentes](https://drive.google.com/file/d/1ciQNPTjeeMYVVu4BIQVzKwZAZrGtkulV/view?usp=sharing)
 
 **Profesor:** Juan David Ospina Arango
 
