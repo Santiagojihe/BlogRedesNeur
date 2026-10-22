@@ -57,6 +57,7 @@ Martes 13 de Octubre de 2026
 
 - [Santiago Jimenez Henao](https://drive.google.com/file/d/1cAEot-qNaMo2oGCS1wZtmxoKkx4vw8Tm/view?usp=sharing)
 - [Catalina Arango Sierra](https://drive.google.com/file/d/1jtH615NblHxFm6ohqrvfq7ANSbqm5Bvk/view?usp=drivesdk)
+- [Sara Castano Montoya](https://drive.google.com/file/d/1gWXkG7i49xTvUYD3ShzZHgscsw7HLJ-v/view?usp=drive_link)
 - [Juan Diego Cifuentes](https://drive.google.com/file/d/1ciQNPTjeeMYVVu4BIQVzKwZAZrGtkulV/view?usp=sharing)
 
 ---
